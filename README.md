@@ -27,6 +27,5 @@
 
 ## 📬Contact
 <div display="flex">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    : **wjdvy254@gmail.com**
+    [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdvy254@gmail.com)](mailto:wjdvy254@gmail.com) : wjdvy254@gmail.com 
 </div>
