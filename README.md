@@ -1,7 +1,6 @@
 ## 👨‍💻About me
 **Just ordinary Software and Web developer who live in Japan**
-
-
+**And also i love Mathematics**
 
 ## ⚙️Operating System
 <div display="flex">
@@ -24,4 +23,10 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+## 📬Contact
+<div display="flex">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    : wjdvy254@gmail.com
 </div>
