@@ -28,5 +28,5 @@
 ## 📬Contact
 <div display="flex">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    : wjdvy254@gmail.com
+    : **wjdvy254@gmail.com**
 </div>
