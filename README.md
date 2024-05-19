@@ -15,7 +15,7 @@
 
 ## 💻Usually Use
 <div display="flex">
-    <img src="https://img.shields.io/badge/c-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=red" />
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
