@@ -1,7 +1,7 @@
 ## 👨‍💻About me
 **Just ordinary Software and Web developer who live in Japan**
 **And also i love Mathematics**
-
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 ## ⚙️Operating System
 <div display="flex">
     <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
