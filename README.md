@@ -40,7 +40,7 @@
 <div display="flex">
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-FCC624?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
 ## 📬Contact
