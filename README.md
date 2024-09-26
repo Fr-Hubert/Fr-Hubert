@@ -46,6 +46,6 @@
 ## 📬Contact
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdvy254@gmail.com)](mailto:wjdvy254@gmail.com) : wjdvy254@gmail.com 
 <div display="flex">
-    **I can conversation with you in Japanese, Korean, English**
-    **Thank you!**
+    I can conversation with you in Japanese, Korean, English<br>
+    Thank you!
 </div>
