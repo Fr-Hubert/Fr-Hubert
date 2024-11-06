@@ -37,7 +37,7 @@
 
 ## 💻Data Format
 <div display="flex">
-    <img src="https://img.shields.io/badge/json-yellow?style=for-the-badge&logo=json&logoColor=white"">
+    <img src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white"">
 </div>
 
 ## 💻IDE
