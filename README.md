@@ -24,6 +24,11 @@
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
+## 💻Web Server
+<div display="flex">
+    <img src="https://img.shields.io/badge/nginx-green?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
+
 ## 💻MiddleWare
 <div display="flex">
     <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"">
