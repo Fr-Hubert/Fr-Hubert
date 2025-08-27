@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-8977AD?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/eclipse-2C2D72?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img src="https://img.shields.io/badge/csplus-black?style=for-the-badge&logo=csplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/cs+-black?style=for-the-badge&logo=cs+&logoColor=white" />
 </div>
 
 ## 💻Learning
