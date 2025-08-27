@@ -19,11 +19,13 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-## 💻Framework
+## 💻Framework&Library
 <div display="flex">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-2C3840?style=for-the-badge&logo=react&logoColor=64DAFA" />
+    <img src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white" />
 </div>
 
 ## 💻Web Server
