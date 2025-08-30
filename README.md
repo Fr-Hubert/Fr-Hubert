@@ -51,8 +51,8 @@
 
 ## 💻IDE
 <div display="flex">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio-8977AD?style=for-the-badge&logo=visual-studio&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/eclipse-2C2D72?style=for-the-badge&logo=eclipse&logoColor=white">
     <img src="https://img.shields.io/badge/cs+-black?style=for-the-badge&logo=cs+&logoColor=white" />
 </div>
