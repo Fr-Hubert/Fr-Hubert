@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=red" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/react-2C3840?style=for-the-badge&logo=react&logoColor=64DAFA" />
+    <br>
     <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white" />
