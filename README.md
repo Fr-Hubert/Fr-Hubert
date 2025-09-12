@@ -11,7 +11,7 @@
 ## 💻Language
 <div display="flex">
     <img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=red" />
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <br>
