@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/react-2C3840?style=for-the-badge&logo=react&logoColor=64DAFA" />
     <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white" />
+    <img src="https://img.shields.io/badge/quasar-sky-blue?style=for-the-badge&logo=quasar&logoColor=black" />
 </div>
 
 ## 💻Web Server
