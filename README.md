@@ -25,10 +25,10 @@
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-2C3840?style=for-the-badge&logo=react&logoColor=64DAFA" />
+    <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-2C3840?style=for-the-badge&logo=react&logoColor=64DAFA" />
     <img src="https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white" />
     <img src="https://img.shields.io/badge/quasar-00B4FF?style=for-the-badge&logo=quasar&logoColor=white" />
 </div>
