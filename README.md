@@ -12,12 +12,12 @@
 <div display="flex">
     <img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ## 💻Framework&Library
