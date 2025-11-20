@@ -1,4 +1,4 @@
-![hubert](https://github.com/user-attachments/assets/302e70df-2bd1-493d-b063-24372be2725d)
+<img width="848" height="1024" alt="문양 무배경업글" src="https://github.com/user-attachments/assets/2cd8853d-32db-41ca-bd59-3be24c9ed663" />
 
 ## 👨‍💻About me
 **Just ordinary Software and Web developer who live in Japan**
